@@ -23,7 +23,7 @@ def run_web():
 t = threading.Thread(target=run_web)
 t.start()
 
-TELEGRAM_TOKEN = '8512531507:AAE-mpzcpKDKjxUI3NHj72QLbzGIExOY-Js'
+TELEGRAM_TOKEN = '8512531507:AAGuwTWyxrbf5anIhwApLo_SGjFL2UkuI9k'
 DISCORD_WEBHOOK_URL = (
     'https://discord.com/api/webhooks/1540999790043598910/LKFnqk7rKWQp-3b0t-cwpIKQexJ65jqVFlkJ_Th81EX7UNYGGNLiozY_XcmNwE_ungL'
 )
